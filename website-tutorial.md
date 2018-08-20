@@ -62,4 +62,4 @@ Now in between the `<body></body>` tags you will write a title and a sentence ab
 
 ```
 
-Now to view your page click on the Run button at the top of the page.
+Now to view your website click on the Run button towards the top of the cloud9 editor.
